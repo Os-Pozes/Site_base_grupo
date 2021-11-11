@@ -12,3 +12,6 @@ body{
 .img-fluid2{
     border-radius: 50%;
 }
+.row{
+    background-color: rgb(255, 176, 58);
+}

@@ -23,7 +23,7 @@ body{
 .btn-primary{
     color:rgb white ;
     background-color:rgba(255, 176, 58); 
-    border-color:rgb(255, 170, 44); 
+    border-color:rgb(255, 255, 255); 
 }
 .btn-primary:hover{
     background-color:rgb(201, 130, 25);
